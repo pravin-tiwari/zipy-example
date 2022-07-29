@@ -1,6 +1,6 @@
 import { FC } from 'react';
-import Card from '../Card/Card.lazy';
-import CardContainer from '../CardContainer/CardContainer.lazy';
+import Card from '../Card/Card';
+import CardContainer from '../CardContainer/CardContainer';
 import styles from './Home.module.css';
 import { USERS } from '../../utils/constant';
 
