@@ -4,3 +4,10 @@
     line-height: 2;
     text-align: center;
 }
+
+label {
+    display: flex;
+    flex-direction: row;
+    padding: 0px 5px;
+    font-size: larger;
+}

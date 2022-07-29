@@ -1,0 +1,50 @@
+/* .Card {} */
+
+.card {
+    margin: 5px;
+    background: lightslategray;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.content {
+    height: 30px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    line-height: 1;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+    border-top: 1px dashed #afa9a9;
+    padding-top: 7px;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+}
+
+.titles {
+    margin: 0px 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-size: medium;
+    color: white;
+    padding: 0px;
+    width: max-content;
+}
+
+.subtitle {
+    font-size: smaller;
+    color: lightgray;
+    padding: 0px;
+}

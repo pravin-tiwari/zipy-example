@@ -54,5 +54,6 @@
   "include": [
     "src",
     "src/*/*.lazy",
+    "lazy"
   ]
 }
